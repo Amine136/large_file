@@ -1,0 +1,7 @@
+unsloth
+chromadb
+langchain
+sentence-transformers
+langchain-community
+google-generativeai
+langchain_google_genai
