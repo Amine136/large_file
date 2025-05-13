@@ -1,9 +1,6 @@
 from utils import _generate_and_save, retrieval_qa
 import os
 
-os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
-os.environ["GOOGLE_API_KEY"] = "AIzaSyBD1ssf_jhmQblYIiarFKuFOYg5fZCKLvI"
-
 
 
 
